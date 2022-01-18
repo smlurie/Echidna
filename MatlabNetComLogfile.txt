@@ -1,0 +1,8 @@
+NetCom Log File Opened - File Name:  MatlabNetComLogfile.txt
+Time Opened: (mm/dd/yyyy): 01/18/2022 At Time: 17:20:59
+NetCom Version 3.1.0
+
+-*  ERROR  *- (mm/dd/yyyy): 01/18/2022 At Time: 17:20:59 - NetworkNodeClient::ConnectToServer - Error Connecting To Server, error code: WSAEADDRNOTAVAIL - The remote address is not a valid address (such as ADDR_ANY).
+-*  ERROR  *- (mm/dd/yyyy): 01/18/2022 At Time: 17:20:59 - NetworkNodeClient::ConnectToServer - Error Connecting To Server, error code: WSAEADDRNOTAVAIL - The remote address is not a valid address (such as ADDR_ANY).
+Log File Closed - End of File
+

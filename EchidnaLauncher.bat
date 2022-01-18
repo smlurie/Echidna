@@ -1,0 +1,3 @@
+@echo off
+echo Launching Echidna...
+matlab -r Echidna -nodesktop -nosplash
