@@ -15,5 +15,7 @@ TIPS:
 
 -Use the GUI to add electrode strips or contacts to the montage, matched to the CSC channel # in Cheetah or Pegasus.
 
+-Save and load electrode montage configurations using the GUI. 
+
 
 
