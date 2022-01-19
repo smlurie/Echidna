@@ -20,7 +20,3 @@ FEATURES AND TIPS:
 -Optional ~60Hz notch filtering.
 
 -Visualize 1/f-corrected power spectra to identify peak frequencies in selected channels.
-
--
-
-
